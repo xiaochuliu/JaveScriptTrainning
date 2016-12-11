@@ -1,0 +1,20 @@
+{
+  "name": "autodesk-web-uploader",
+  "version": "1.0.0",
+  "description": "OSS file uploader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Gester <will.gester@hackreactor.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "multer": "^1.1.0",
+    "request": "^2.72.0",
+    "serve-favicon": "^2.3.0",
+    "unirest": "^0.4.2"
+  }
+}
